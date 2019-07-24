@@ -1,0 +1,19 @@
+html {
+  font-family: sans-serif;
+}
+
+.main-content {
+  text-align: center;
+}
+
+.weather-widget {
+  border: 1px solid #d7d7d7;
+  display: inline-block;
+  padding: 1rem;
+  min-width: 7rem;
+  border-radius: 5px;
+}
+
+.city {
+  margin: 5rem 0 2rem;
+}
